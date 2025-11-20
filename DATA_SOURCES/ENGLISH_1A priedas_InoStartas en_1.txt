@@ -1,0 +1,942 @@
+Type of R&D activity: Industrial research
+
+Project Impact No.: 2025-RD-001
+
+Name of exposure: Development of Advanced AI-Based Medical Diagnostic System
+
+Name of the legal entity responsible for achieving the impact: TechMed Innovations UAB
+
+Applicant/partner: Applicant
+
+Funding intensity: 70%
+
+Salaries of project staff:
+Dr. Jonas Petrauskas - Project Manager: 4500
+Dr. Elena Kazlauskaite - Senior AI Researcher: 4200
+Mindaugas Vasiljevas - Software Engineer: 3200
+Ruta Jankauskaite - Data Scientist: 3500
+Tomas Mickus - Clinical Specialist: 3800
+Giedre Rimkute - Quality Assurance Engineer: 2800
+Paulius Stankevicius - UI/UX Designer: 2600
+Agne Balciunaite - Research Assistant: 2200
+Vytautas Kazys - Database Administrator: 3100
+Simona Balsyte - Technical Writer: 2400
+Andrius Pavilonis - Machine Learning Engineer: 3900
+Kristina Urboniene - Biomedical Engineer: 3600
+Darius Lukauskas - DevOps Engineer: 3300
+Neringa Jociene - Project Coordinator: 2500
+Linas Gedvilas - Security Specialist: 3400
+Ausra Navickaite - Business Analyst: 2900
+Rokas Petkus - Frontend Developer: 2700
+Egle Stonkute - Backend Developer: 3000
+Mantas Grigas - Test Engineer: 2600
+Evelina Zukauskiene - Regulatory Affairs Specialist: 3200
+
+Wages of project staff:
+540
+504
+384
+420
+456
+336
+312
+264
+372
+288
+468
+432
+396
+300
+408
+348
+324
+360
+312
+384
+
+Employer's liability costs:
+1431
+1334.4
+1017.6
+1113
+1208.4
+890.4
+826.8
+699.6
+986.1
+763.2
+1240.2
+1144.8
+1050.3
+795
+1081.2
+922.2
+858.6
+954
+826.8
+1017.6
+
+Quantity:
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Unit price without VAT (EUR):
+6471
+6038.4
+4601.6
+5033
+5464.4
+4026.4
+3738.8
+3163.6
+4458.1
+3451.2
+5608.2
+5176.8
+4746.3
+3595
+4889.2
+4170.2
+3882.6
+4314
+3738.8
+4601.6
+
+Amount of eligible costs excluding VAT (EUR):
+6471
+6038.4
+4601.6
+5033
+5464.4
+4026.4
+3738.8
+3163.6
+4458.1
+3451.2
+5608.2
+5176.8
+4746.3
+3595
+4889.2
+4170.2
+3882.6
+4314
+3738.8
+4601.6
+
+Funding requested (EUR):
+4529.7
+4226.88
+3221.12
+3523.1
+3825.08
+2818.48
+2617.16
+2214.52
+3120.67
+2415.84
+3925.74
+3623.76
+3322.41
+2516.5
+3422.44
+2919.14
+2717.82
+3019.8
+2617.16
+3221.12
+
+Title, date and number of supporting documents:
+Employment contract EC-001 dated 2024-01-15
+Employment contract EC-002 dated 2024-01-20
+Employment contract EC-003 dated 2024-02-01
+Employment contract EC-004 dated 2024-02-10
+Employment contract EC-005 dated 2024-02-15
+Employment contract EC-006 dated 2024-03-01
+Employment contract EC-007 dated 2024-03-05
+Employment contract EC-008 dated 2024-03-10
+Employment contract EC-009 dated 2024-03-15
+Employment contract EC-010 dated 2024-03-20
+Employment contract EC-011 dated 2024-04-01
+Employment contract EC-012 dated 2024-04-05
+Employment contract EC-013 dated 2024-04-10
+Employment contract EC-014 dated 2024-04-15
+Employment contract EC-015 dated 2024-04-20
+Employment contract EC-016 dated 2024-05-01
+Employment contract EC-017 dated 2024-05-05
+Employment contract EC-018 dated 2024-05-10
+Employment contract EC-019 dated 2024-05-15
+Employment contract EC-020 dated 2024-05-20
+
+Amount of eligible costs excluding VAT for Mission expenses: 18500
+
+Funding requested for Mission expenses: 12950
+
+Mission 1 - International AI Conference Berlin:
+Name: International AI Conference Berlin
+Measuring units - Per diem: days
+Measuring units - Living space: nights  
+Measuring units - Travel costs: trips
+Measuring units - Participation fee: registrations
+Measuring units - Conference materials: sets
+Measuring units - Translation services: hours
+
+Quantity - Total: 3
+Quantity - Per diem: 12
+Quantity - Living space: 9
+Quantity - Travel costs: 6
+Quantity - Participation fee: 3
+Quantity - Conference materials: 3
+Quantity - Translation services: 16
+
+Unit price without VAT - Total: 1850
+Unit price without VAT - Per diem: 95
+Unit price without VAT - Living space: 120
+Unit price without VAT - Travel costs: 245
+Unit price without VAT - Participation fee: 450
+Unit price without VAT - Conference materials: 75
+Unit price without VAT - Translation services: 45
+
+Amount of eligible costs excluding VAT - Total: 5550
+Amount of eligible costs excluding VAT - Per diem: 1140
+Amount of eligible costs excluding VAT - Living space: 1080
+Amount of eligible costs excluding VAT - Travel costs: 1470
+Amount of eligible costs excluding VAT - Participation fee: 1350
+Amount of eligible costs excluding VAT - Conference materials: 225
+Amount of eligible costs excluding VAT - Translation services: 720
+
+Funding requested - Total: 3885
+Funding requested - Per diem: 798
+Funding requested - Living space: 756
+Funding requested - Travel costs: 1029
+Funding requested - Participation fee: 945
+Funding requested - Conference materials: 157.5
+Funding requested - Translation services: 504
+
+Country of posting: Germany
+Duration of secondment: 3 days
+Number of people travelling: 3 persons
+
+Mission 2 - Medical Technology Summit Boston:
+Name: Medical Technology Summit Boston
+Measuring units - Per diem: days
+Measuring units - Living space: nights  
+Measuring units - Travel costs: trips
+Measuring units - Participation fee: registrations
+Measuring units - Equipment rental: days
+Measuring units - Local transport: days
+
+Quantity - Total: 2
+Quantity - Per diem: 10
+Quantity - Living space: 8
+Quantity - Travel costs: 4
+Quantity - Participation fee: 2
+Quantity - Equipment rental: 4
+Quantity - Local transport: 4
+
+Unit price without VAT - Total: 2200
+Unit price without VAT - Per diem: 110
+Unit price without VAT - Living space: 180
+Unit price without VAT - Travel costs: 850
+Unit price without VAT - Participation fee: 650
+Unit price without VAT - Equipment rental: 120
+Unit price without VAT - Local transport: 35
+
+Amount of eligible costs excluding VAT - Total: 4400
+Amount of eligible costs excluding VAT - Per diem: 1100
+Amount of eligible costs excluding VAT - Living space: 1440
+Amount of eligible costs excluding VAT - Travel costs: 3400
+Amount of eligible costs excluding VAT - Participation fee: 1300
+Amount of eligible costs excluding VAT - Equipment rental: 480
+Amount of eligible costs excluding VAT - Local transport: 140
+
+Funding requested - Total: 3080
+Funding requested - Per diem: 770
+Funding requested - Living space: 1008
+Funding requested - Travel costs: 2380
+Funding requested - Participation fee: 910
+Funding requested - Equipment rental: 336
+Funding requested - Local transport: 98
+
+Country of posting: United States
+Duration of secondment: 4 days
+Number of people travelling: 2 persons
+
+Mission 3 - European Healthcare Innovation Forum Amsterdam:
+Name: European Healthcare Innovation Forum Amsterdam
+Measuring units - Per diem: days
+Measuring units - Living space: nights  
+Measuring units - Travel costs: trips
+Measuring units - Participation fee: registrations
+Measuring units - Workshop materials: sets
+Measuring units - Networking events: events
+
+Quantity - Total: 4
+Quantity - Per diem: 16
+Quantity - Living space: 12
+Quantity - Travel costs: 8
+Quantity - Participation fee: 4
+Quantity - Workshop materials: 4
+Quantity - Networking events: 6
+
+Unit price without VAT - Total: 1375
+Unit price without VAT - Per diem: 85
+Unit price without VAT - Living space: 95
+Unit price without VAT - Travel costs: 195
+Unit price without VAT - Participation fee: 320
+Unit price without VAT - Workshop materials: 45
+Unit price without VAT - Networking events: 85
+
+Amount of eligible costs excluding VAT - Total: 5500
+Amount of eligible costs excluding VAT - Per diem: 1360
+Amount of eligible costs excluding VAT - Living space: 1140
+Amount of eligible costs excluding VAT - Travel costs: 1560
+Amount of eligible costs excluding VAT - Participation fee: 1280
+Amount of eligible costs excluding VAT - Workshop materials: 180
+Amount of eligible costs excluding VAT - Networking events: 510
+
+Funding requested - Total: 3850
+Funding requested - Per diem: 952
+Funding requested - Living space: 798
+Funding requested - Travel costs: 1092
+Funding requested - Participation fee: 896
+Funding requested - Workshop materials: 126
+Funding requested - Translation services: 357
+
+Country of posting: Netherlands
+Duration of secondment: 3 days
+Number of people travelling: 4 persons
+
+Mission 4 - Digital Health Research Symposium Copenhagen:
+Name: Digital Health Research Symposium Copenhagen
+Measuring units - Per diem: days
+Measuring units - Living space: nights  
+Measuring units - Travel costs: trips
+Measuring units - Participation fee: registrations
+Measuring units - Research materials: sets
+Measuring units - Consultation fees: hours
+
+Quantity - Total: 2
+Quantity - Per diem: 6
+Quantity - Living space: 4
+Quantity - Travel costs: 4
+Quantity - Participation fee: 2
+Quantity - Research materials: 2
+Quantity - Consultation fees: 8
+
+Unit price without VAT - Total: 1525
+Unit price without VAT - Per diem: 90
+Unit price without VAT - Living space: 110
+Unit price without VAT - Travel costs: 165
+Unit price without VAT - Participation fee: 380
+Unit price without VAT - Research materials: 95
+Unit price without VAT - Consultation fees: 125
+
+Amount of eligible costs excluding VAT - Total: 3050
+Amount of eligible costs excluding VAT - Per diem: 540
+Amount of eligible costs excluding VAT - Living space: 440
+Amount of eligible costs excluding VAT - Travel costs: 660
+Amount of eligible costs excluding VAT - Participation fee: 760
+Amount of eligible costs excluding VAT - Research materials: 190
+Amount of eligible costs excluding VAT - Consultation fees: 1000
+
+Funding requested - Total: 2135
+Funding requested - Per diem: 378
+Funding requested - Living space: 308
+Funding requested - Travel costs: 462
+Funding requested - Participation fee: 532
+Funding requested - Research materials: 133
+Funding requested - Consultation fees: 700
+
+Country of posting: Denmark
+Duration of secondment: 2 days
+Number of people travelling: 2 persons
+
+Depreciation costs for tools and equipment:
+
+High-Performance Computing Server: Server Units, 2, 15000, 30000, 21000, 60, 3600, 24, 80%, 2880
+Advanced MRI Analysis Software: Software License, 1, 25000, 25000, 36, 694.44, 24, 90%, 15000
+AI Development Workstations: Units, 8, 3500, 28000, 36, 777.78, 24, 75%, 14000
+Medical Imaging Equipment: Units, 3, 18000, 54000, 48, 1125, 24, 85%, 22950
+Database Management System: Software License, 1, 12000, 12000, 36, 333.33, 24, 100%, 8000
+Network Security Hardware: Units, 4, 2800, 11200, 60, 186.67, 24, 70%, 3120
+Clinical Data Storage Array: Units, 2, 22000, 44000, 60, 733.33, 24, 95%, 16720
+Backup and Recovery System: System, 1, 8500, 8500, 48, 177.08, 24, 80%, 3400
+Testing Equipment Suite: Units, 5, 4200, 21000, 36, 583.33, 24, 85%, 11900
+Development Environment Software: Software License, 10, 1200, 12000, 24, 500, 24, 90%, 10800
+Monitoring and Analytics Tools: Tools, 6, 1800, 10800, 36, 300, 24, 75%, 5400
+Quality Assurance Systems: Systems, 3, 5500, 16500, 48, 343.75, 24, 80%, 6600
+Mobile Testing Devices: Units, 12, 800, 9600, 24, 400, 24, 70%, 6720
+Collaboration Software Platform: Platform License, 1, 6000, 6000, 36, 166.67, 24, 100%, 4000
+Documentation Management System: System, 1, 4500, 4500, 36, 125, 24, 85%, 2550
+Video Conferencing Equipment: Units, 4, 1500, 6000, 48, 125, 24, 75%, 2250
+Prototype Development Kit: Kits, 8, 1200, 9600, 24, 400, 24, 80%, 7680
+Research Laboratory Equipment: Units, 6, 3200, 19200, 60, 320, 24, 90%, 6912
+Calibration and Testing Tools: Tools, 15, 450, 6750, 36, 187.5, 24, 70%, 3150
+Training and Simulation Software: Software License, 5, 2400, 12000, 36, 333.33, 24, 75%, 6000
+
+Date of commissioning:
+2024-01-15
+2024-01-20
+2024-02-01
+2024-02-10
+2024-02-15
+2024-03-01
+2024-03-05
+2024-03-10
+2024-03-15
+2024-03-20
+2024-04-01
+2024-04-05
+2024-04-10
+2024-04-15
+2024-04-20
+2024-05-01
+2024-05-05
+2024-05-10
+2024-05-15
+2024-05-20
+
+Acquisition value of assets (EUR):
+30000
+25000
+28000
+54000
+12000
+11200
+44000
+8500
+21000
+12000
+10800
+16500
+9600
+6000
+4500
+6000
+9600
+19200
+6750
+12000
+
+Depreciation period (months):
+60
+36
+36
+48
+36
+60
+60
+48
+36
+24
+36
+48
+24
+36
+36
+48
+24
+60
+36
+36
+
+Estimated residual value (EUR):
+3000
+0
+2800
+5400
+1200
+1120
+4400
+850
+2100
+0
+1080
+1650
+960
+600
+450
+600
+960
+1920
+675
+1200
+
+Depreciation amount per month (EUR):
+450
+694.44
+700
+1012.5
+300
+168.33
+660
+159.38
+525
+500
+270
+309.38
+360
+150
+112.5
+112.5
+360
+288
+168.75
+300
+
+Time of use for project (months):
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+
+Proportion used for project (%):
+80
+90
+75
+85
+100
+70
+95
+80
+85
+90
+75
+80
+70
+100
+85
+75
+80
+90
+70
+75
+
+Amount attributed to project (EUR):
+8640
+15000
+12600
+20646
+7200
+2822.4
+15048
+3062.4
+10710
+10800
+4860
+5940.48
+6048
+3600
+2295
+2025
+6912
+6220.8
+2835
+5400
+
+Expenditure for R&D services:
+
+AI Algorithm Development Services: Service contracts, 3, 45000, 135000, 94500, Contract DEV-001 dated 2024-02-01 - Neural network optimization
+Clinical Data Analysis Services: Analysis contracts, 2, 28000, 56000, 39200, Contract ANA-002 dated 2024-02-15 - Statistical analysis of patient data
+Software Testing and Validation: Testing contracts, 4, 15000, 60000, 42000, Contract TST-003 dated 2024-03-01 - Quality assurance testing
+Regulatory Compliance Consulting: Consulting hours, 120, 180, 21600, 15120, Contract REG-004 dated 2024-03-10 - Medical device regulations
+Patent Research and Analysis: Research contracts, 2, 12000, 24000, 16800, Contract PAT-005 dated 2024-03-15 - IP landscape analysis
+Cybersecurity Assessment Services: Assessment contracts, 1, 35000, 35000, 24500, Contract SEC-006 dated 2024-04-01 - Security vulnerability assessment
+Medical Expert Consultation: Consultation hours, 80, 250, 20000, 14000, Contract MED-007 dated 2024-04-05 - Clinical expertise consultation
+User Experience Research: Research projects, 2, 18000, 36000, 25200, Contract UXR-008 dated 2024-04-10 - User interface optimization
+Database Design and Implementation: Implementation contracts, 1, 42000, 42000, 29400, Contract DBI-009 dated 2024-04-15 - Medical database architecture
+Quality Management System Setup: QMS contracts, 1, 25000, 25000, 17500, Contract QMS-010 dated 2024-04-20 - ISO 13485 implementation
+
+Costs of contractual research, patents, and consultancy (Total): 454600
+
+Funding requested for contractual research: 318220
+
+Title of contractual expenditure:
+External AI Research Partnership
+Medical Device Certification Support
+Clinical Trial Design Consultation
+Intellectual Property Licensing
+Biostatistics Analysis Services
+Regulatory Affairs Support
+Technical Documentation Services
+Market Research and Analysis
+Risk Management Consulting
+Training and Education Services
+
+Measuring units:
+Contracts
+Hours
+Projects
+Licenses
+Analyses
+Consulting hours
+Documentation packages
+Reports
+Assessments
+Training modules
+
+Quantity:
+2
+150
+3
+5
+8
+200
+4
+6
+2
+10
+
+Unit price without VAT (EUR):
+22500
+180
+8500
+4200
+3500
+165
+2800
+4500
+12500
+1200
+
+Amount of eligible costs excluding VAT (EUR):
+45000
+27000
+25500
+21000
+28000
+33000
+11200
+27000
+25000
+12000
+
+Funding requested (EUR):
+31500
+18900
+17850
+14700
+19600
+23100
+7840
+18900
+17500
+8400
+
+Title and date of supporting documents:
+Partnership Agreement PA-001 dated 2024-01-30
+Consulting Contract CC-002 dated 2024-02-12
+Project Agreement PR-003 dated 2024-02-28
+License Agreement LA-004 dated 2024-03-12
+Service Contract SC-005 dated 2024-03-25
+Consulting Agreement CA-006 dated 2024-04-08
+Documentation Contract DC-007 dated 2024-04-18
+Research Agreement RA-008 dated 2024-04-25
+Risk Assessment Agreement RAA-009 dated 2024-05-02
+Training Contract TC-010 dated 2024-05-12
+
+Materials and non-expendable inventories (Total eligible costs): 125000
+
+Materials and non-expendable inventories (Total funding requested): 87500
+
+Materials expenditure titles:
+High-Grade Silicon Wafers
+Medical Grade Sensors
+Specialized Electronic Components
+Rare Earth Magnets for MRI
+Optical Fiber Cables
+Precision Measurement Instruments
+Biocompatible Materials
+Advanced Polymers
+Nanomaterials for Coating
+High-Purity Chemicals
+Specialized Adhesives
+Protective Equipment
+Calibration Standards
+Research Chemicals
+Laboratory Consumables
+Clean Room Supplies
+Testing Materials
+Prototype Components
+Assembly Hardware
+Quality Control Materials
+Documentation Materials
+Safety Equipment
+Maintenance Supplies
+Packaging Materials
+Transportation Containers
+
+Measuring units for materials:
+Wafers
+Sensors
+Components
+Magnets
+Meters
+Instruments
+Kilograms
+Liters
+Grams
+Liters
+Tubes
+Sets
+Standards
+Chemicals
+Packages
+Supplies
+Kits
+Components
+Hardware
+Materials
+Materials
+Equipment
+Supplies
+Materials
+Containers
+
+Quantity for materials:
+50
+25
+500
+12
+1000
+8
+15
+80
+200
+40
+30
+10
+5
+20
+100
+50
+15
+200
+300
+25
+12
+8
+20
+35
+6
+
+Unit price without VAT for materials (EUR):
+180
+320
+45
+650
+12
+850
+420
+95
+35
+125
+55
+380
+750
+180
+25
+90
+280
+85
+15
+140
+95
+450
+75
+65
+220
+
+Amount of eligible costs for materials (EUR):
+9000
+8000
+22500
+7800
+12000
+6800
+6300
+7600
+7000
+5000
+1650
+3800
+3750
+3600
+2500
+4500
+4200
+17000
+4500
+3500
+1140
+3600
+1500
+2275
+1320
+
+Funding requested for materials (EUR):
+6300
+5600
+15750
+5460
+8400
+4760
+4410
+5320
+4900
+3500
+1155
+2660
+2625
+2520
+1750
+3150
+2940
+11900
+3150
+2450
+798
+2520
+1050
+1592.5
+924
+
+Supporting documents for materials:
+Purchase Order PO-M001 dated 2024-01-25 - Silicon wafer procurement
+Purchase Order PO-M002 dated 2024-02-05 - Medical sensor acquisition
+Purchase Order PO-M003 dated 2024-02-18 - Electronic components bulk order
+Purchase Order PO-M004 dated 2024-03-02 - MRI magnet procurement
+Purchase Order PO-M005 dated 2024-03-15 - Fiber optic cable installation
+Purchase Order PO-M006 dated 2024-03-28 - Precision instruments purchase
+Purchase Order PO-M007 dated 2024-04-10 - Biocompatible materials order
+Purchase Order PO-M008 dated 2024-04-22 - Advanced polymer procurement
+Purchase Order PO-M009 dated 2024-05-05 - Nanomaterial coating supplies
+Purchase Order PO-M010 dated 2024-05-18 - Chemical reagents purchase
+Purchase Order PO-M011 dated 2024-05-30 - Adhesive materials order
+Purchase Order PO-M012 dated 2024-06-12 - Protective equipment procurement
+Purchase Order PO-M013 dated 2024-06-25 - Calibration standards purchase
+Purchase Order PO-M014 dated 2024-07-08 - Research chemicals order
+Purchase Order PO-M015 dated 2024-07-20 - Laboratory consumables bulk
+Purchase Order PO-M016 dated 2024-08-02 - Clean room supplies order
+Purchase Order PO-M017 dated 2024-08-15 - Testing materials procurement
+Purchase Order PO-M018 dated 2024-08-28 - Prototype components order
+Purchase Order PO-M019 dated 2024-09-10 - Assembly hardware purchase
+Purchase Order PO-M020 dated 2024-09-22 - Quality control materials
+Purchase Order PO-M021 dated 2024-10-05 - Documentation supplies
+Purchase Order PO-M022 dated 2024-10-18 - Safety equipment upgrade
+Purchase Order PO-M023 dated 2024-11-02 - Maintenance supplies order
+Purchase Order PO-M024 dated 2024-11-15 - Packaging materials procurement
+Purchase Order PO-M025 dated 2024-11-28 - Transportation containers order
+
+Rental costs of equipment:
+
+Advanced Electron Microscope: Months, 12, 4500, 54000, 37800, Rental Agreement RE-001 dated 2024-01-15, 4200, 24
+High-Precision 3D Printer: Months, 18, 1200, 21600, 15120, Rental Agreement RE-002 dated 2024-02-01, 1150, 24
+Specialized Testing Chamber: Months, 24, 850, 20400, 14280, Rental Agreement RE-003 dated 2024-02-15, 800, 24
+Medical Imaging Simulator: Months, 15, 2800, 42000, 29400, Rental Agreement RE-004 dated 2024-03-01, 2650, 24
+Clean Room Equipment: Months, 20, 950, 19000, 13300, Rental Agreement RE-005 dated 2024-03-15, 900, 24
+Automated Testing Robot: Months, 16, 1850, 29600, 20720, Rental Agreement RE-006 dated 2024-04-01, 1750, 24
+Spectral Analysis Equipment: Months, 14, 2200, 30800, 21560, Rental Agreement RE-007 dated 2024-04-15, 2100, 24
+Environmental Control System: Months, 22, 750, 16500, 11550, Rental Agreement RE-008 dated 2024-05-01, 700, 24
+Data Acquisition System: Months, 18, 1350, 24300, 17010, Rental Agreement RE-009 dated 2024-05-15, 1280, 24
+Mobile Laboratory Unit: Months, 12, 3200, 38400, 26880, Rental Agreement RE-010 dated 2024-06-01, 3050, 24
+
+Rental expenses for buildings/premises (Total eligible costs): 48000
+
+Rental expenses for buildings/premises (Total funding requested): 33600
+
+Building addresses and rental details:
+Research Laboratory Complex A, Vilnius Tech Park, Building 15, Floor 3: Months, 24, 1200, 28800, 20160, Lease Agreement LA-B001 dated 2024-01-01, 1150, 24
+Clean Room Facility, Kaunas Innovation Center, Unit 205: Months, 18, 800, 14400, 10080, Lease Agreement LA-B002 dated 2024-02-01, 750, 24
+Testing Laboratory, Klaipeda Science Campus, Lab 12: Months, 12, 600, 7200, 5040, Lease Agreement LA-B003 dated 2024-03-01, 580, 24
+Data Center Space, Siauliai Technology Hub, Rack 45-50: Months, 24, 450, 10800, 7560, Lease Agreement LA-B004 dated 2024-04-01, 420, 24
+Meeting and Conference Room, Panevezys Business Center, Room 301: Months, 20, 180, 3600, 2520, Lease Agreement LA-B005 dated 2024-05-01, 170, 24
+
+Total DIRECT project costs (Eligible costs): 892700
+
+Total DIRECT project costs (Funding requested): 624890
+
+INDIRECT EXPENDITURE: 15%
+
+Amount of eligible costs for indirect expenditure: 133905
+
+Funding requested for indirect expenditure: 93733.5
+
+Fixed rate as per regulations: 15% of direct costs
+
+Total eligible costs (direct + indirect): 1026605
+
+Total funding requested (direct + indirect): 718623.5
+
+Actual monthly costs for equipment:
+4200
+1150
+800
+2650
+900
+1750
+2100
+700
+1280
+3050
+
+Duration of use in project (months):
+24
+24
+24
+24
+24
+24
+24
+24
+24
+24
+
+Actual monthly costs for premises:
+1150
+750
+580
+420
+170
+
+Duration of use for premises (months):
+24
+24
+24
+24
+24

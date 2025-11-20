@@ -1,0 +1,997 @@
+[
+  {
+    "cell_reference": "B4",
+    "value": "5,737,500",
+    "context": "Row 4 'Total project income' (columns B–E are year-specific EUR totals) currently shows '0'. The provided text_data gives the aggregated projected revenue for the project during the implementation period: 5,737,500 EUR — replace the placeholder 0 with this correct total."
+  },
+  {
+    "cell_reference": "C4",
+    "value": "9,332,500",
+    "context": "Row 4 'Total project income' (N+1) currently shows '0'. The text_data specifies N+1 projected revenue of 9,332,500 EUR; this is a superior, contextually appropriate value for this cell."
+  },
+  {
+    "cell_reference": "D4",
+    "value": "13,899,000",
+    "context": "Row 4 'Total project income' (N+2) currently shows '0'. The text_data provides N+2 projected revenue of 13,899,000 EUR; update to reflect the correct projection."
+  },
+  {
+    "cell_reference": "E4",
+    "value": "18,977,500",
+    "context": "Row 4 'Total project income' (N+3) currently shows '0'. The text_data provides N+3 projected revenue of 18,977,500 EUR; replace the placeholder to reflect the forecast."
+  },
+  {
+    "cell_reference": "A11",
+    "value": "Advanced Analytics Dashboard",
+    "context": "Row 11 is a product header currently labeled 'Product xxx'. The text_data names the first product as 'Advanced Analytics Dashboard', so replacing the placeholder improves clarity and aligns the row group (rows 12-14) with the provided product data."
+  },
+  {
+    "cell_reference": "B12",
+    "value": "150",
+    "context": "Row 12 'Sales quantity, pcs.' (During the project) is empty. The text_data specifies 150 units during the project for the Advanced Analytics Dashboard — fill the missing sales quantity."
+  },
+  {
+    "cell_reference": "C12",
+    "value": "220",
+    "context": "Row 12 'Sales quantity, pcs.' (N+1) is empty. The text_data specifies 220 units in N+1 for Advanced Analytics Dashboard; update the cell accordingly."
+  },
+  {
+    "cell_reference": "D12",
+    "value": "280",
+    "context": "Row 12 'Sales quantity, pcs.' (N+2) is empty. The text_data gives 280 units in N+2 for Advanced Analytics Dashboard; insert this value."
+  },
+  {
+    "cell_reference": "E12",
+    "value": "350",
+    "context": "Row 12 'Sales quantity, pcs.' (N+3) is empty. The text_data gives 350 units in N+3 for Advanced Analytics Dashboard; update the cell."
+  },
+  {
+    "cell_reference": "B13",
+    "value": "2,500",
+    "context": "Row 13 'Unit selling price, EUR' (During the project) is empty. The text_data specifies a unit price of 2,500 EUR for Advanced Analytics Dashboard during the project; fill the price."
+  },
+  {
+    "cell_reference": "C13",
+    "value": "2,650",
+    "context": "Row 13 'Unit selling price, EUR' (N+1) is empty. The text_data specifies 2,650 EUR in N+1 for Advanced Analytics Dashboard; update the cell."
+  },
+  {
+    "cell_reference": "D13",
+    "value": "2,750",
+    "context": "Row 13 'Unit selling price, EUR' (N+2) is empty. The text_data specifies 2,750 EUR in N+2 for Advanced Analytics Dashboard; fill the value."
+  },
+  {
+    "cell_reference": "E13",
+    "value": "2,850",
+    "context": "Row 13 'Unit selling price, EUR' (N+3) is empty. The text_data specifies 2,850 EUR in N+3 for Advanced Analytics Dashboard; update the cell."
+  },
+  {
+    "cell_reference": "B14",
+    "value": "375,000",
+    "context": "Row 14 'Total sales revenue, EUR' (During the project) currently shows '0'. The text_data computes 150 units * 2,500 EUR = 375,000 EUR for Advanced Analytics Dashboard; replace the placeholder with this calculated revenue."
+  },
+  {
+    "cell_reference": "C14",
+    "value": "583,000",
+    "context": "Row 14 'Total sales revenue, EUR' (N+1) currently shows '0'. The text_data provides 220 units * 2,650 EUR = 583,000 EUR for Advanced Analytics Dashboard; update accordingly."
+  },
+  {
+    "cell_reference": "D14",
+    "value": "770,000",
+    "context": "Row 14 'Total sales revenue, EUR' (N+2) currently shows '0'. The text_data provides 280 units * 2,750 EUR = 770,000 EUR; replace placeholder."
+  },
+  {
+    "cell_reference": "E14",
+    "value": "997,500",
+    "context": "Row 14 'Total sales revenue, EUR' (N+3) currently shows '0'. The text_data provides 350 units * 2,850 EUR = 997,500 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A16",
+    "value": "AI-Powered Predictive Analytics Suite",
+    "context": "Row 16 is a product header currently labeled 'Product xxx'. The text_data names the second product 'AI-Powered Predictive Analytics Suite', so replace the placeholder to correctly label rows 17-19."
+  },
+  {
+    "cell_reference": "B17",
+    "value": "45",
+    "context": "Row 17 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 45 units during the project for this product; fill the missing quantity."
+  },
+  {
+    "cell_reference": "C17",
+    "value": "75",
+    "context": "Row 17 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 75 units in N+1 for this product; update the cell."
+  },
+  {
+    "cell_reference": "D17",
+    "value": "95",
+    "context": "Row 17 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 95 units in N+2 for this product; fill the value."
+  },
+  {
+    "cell_reference": "E17",
+    "value": "125",
+    "context": "Row 17 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 125 units in N+3 for this product; update the cell."
+  },
+  {
+    "cell_reference": "B18",
+    "value": "8,500",
+    "context": "Row 18 'Unit selling price, EUR' (During the project) is empty. Text_data lists 8,500 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C18",
+    "value": "8,900",
+    "context": "Row 18 'Unit selling price, EUR' (N+1) is empty. Text_data lists 8,900 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D18",
+    "value": "9,200",
+    "context": "Row 18 'Unit selling price, EUR' (N+2) is empty. Text_data lists 9,200 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E18",
+    "value": "9,500",
+    "context": "Row 18 'Unit selling price, EUR' (N+3) is empty. Text_data lists 9,500 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B19",
+    "value": "382,500",
+    "context": "Row 19 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 45 * 8,500 = 382,500 EUR for this product during the project; replace placeholder."
+  },
+  {
+    "cell_reference": "C19",
+    "value": "667,500",
+    "context": "Row 19 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 75 * 8,900 = 667,500 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D19",
+    "value": "874,000",
+    "context": "Row 19 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 95 * 9,200 = 874,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E19",
+    "value": "1,187,500",
+    "context": "Row 19 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 125 * 9,500 = 1,187,500 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A21",
+    "value": "Cloud-Based Data Integration Platform",
+    "context": "Row 21 product header currently 'Product xxx'. The text_data identifies this product as 'Cloud-Based Data Integration Platform', so replace placeholder to label rows 22-24 correctly."
+  },
+  {
+    "cell_reference": "B22",
+    "value": "80",
+    "context": "Row 22 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 80 units during the project for this product; fill the missing quantity."
+  },
+  {
+    "cell_reference": "C22",
+    "value": "140",
+    "context": "Row 22 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 140 units in N+1 for this product; update the cell."
+  },
+  {
+    "cell_reference": "D22",
+    "value": "190",
+    "context": "Row 22 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 190 units in N+2 for this product; fill the value."
+  },
+  {
+    "cell_reference": "E22",
+    "value": "240",
+    "context": "Row 22 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 240 units in N+3 for this product; update the cell."
+  },
+  {
+    "cell_reference": "B23",
+    "value": "3,200",
+    "context": "Row 23 'Unit selling price, EUR' (During the project) is empty. Text_data lists 3,200 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C23",
+    "value": "3,350",
+    "context": "Row 23 'Unit selling price, EUR' (N+1) is empty. Text_data lists 3,350 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D23",
+    "value": "3,500",
+    "context": "Row 23 'Unit selling price, EUR' (N+2) is empty. Text_data lists 3,500 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E23",
+    "value": "3,650",
+    "context": "Row 23 'Unit selling price, EUR' (N+3) is empty. Text_data lists 3,650 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B24",
+    "value": "256,000",
+    "context": "Row 24 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 80 * 3,200 = 256,000 EUR; replace placeholder."
+  },
+  {
+    "cell_reference": "C24",
+    "value": "469,000",
+    "context": "Row 24 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 140 * 3,350 = 469,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D24",
+    "value": "665,000",
+    "context": "Row 24 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 190 * 3,500 = 665,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E24",
+    "value": "876,000",
+    "context": "Row 24 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 240 * 3,650 = 876,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A26",
+    "value": "Machine Learning Optimization Tool",
+    "context": "Row 26 product header currently 'Product xxx'. The text_data names this product 'Machine Learning Optimization Tool', so replace the placeholder and correctly identify rows 27-29."
+  },
+  {
+    "cell_reference": "B27",
+    "value": "25",
+    "context": "Row 27 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 25 units during the project for this product; fill the quantity."
+  },
+  {
+    "cell_reference": "C27",
+    "value": "60",
+    "context": "Row 27 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 60 units in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D27",
+    "value": "85",
+    "context": "Row 27 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 85 units in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E27",
+    "value": "110",
+    "context": "Row 27 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 110 units in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B28",
+    "value": "12,000",
+    "context": "Row 28 'Unit selling price, EUR' (During the project) is empty. Text_data lists 12,000 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C28",
+    "value": "12,500",
+    "context": "Row 28 'Unit selling price, EUR' (N+1) is empty. Text_data lists 12,500 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D28",
+    "value": "13,000",
+    "context": "Row 28 'Unit selling price, EUR' (N+2) is empty. Text_data lists 13,000 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E28",
+    "value": "13,500",
+    "context": "Row 28 'Unit selling price, EUR' (N+3) is empty. Text_data lists 13,500 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B29",
+    "value": "300,000",
+    "context": "Row 29 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 25 * 12,000 = 300,000 EUR for this product during the project; replace placeholder."
+  },
+  {
+    "cell_reference": "C29",
+    "value": "750,000",
+    "context": "Row 29 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 60 * 12,500 = 750,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D29",
+    "value": "1,105,000",
+    "context": "Row 29 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 85 * 13,000 = 1,105,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E29",
+    "value": "1,485,000",
+    "context": "Row 29 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 110 * 13,500 = 1,485,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A31",
+    "value": "Business Intelligence Reporting Suite",
+    "context": "Row 31 product header currently 'Product xxx'. The text_data names this product 'Business Intelligence Reporting Suite', so replace the placeholder to correctly identify rows 32-34."
+  },
+  {
+    "cell_reference": "B32",
+    "value": "200",
+    "context": "Row 32 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 200 units during the project for this product; fill the quantity."
+  },
+  {
+    "cell_reference": "C32",
+    "value": "320",
+    "context": "Row 32 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 320 units in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D32",
+    "value": "420",
+    "context": "Row 32 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 420 units in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E32",
+    "value": "550",
+    "context": "Row 32 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 550 units in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B33",
+    "value": "1,800",
+    "context": "Row 33 'Unit selling price, EUR' (During the project) is empty. Text_data lists 1,800 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C33",
+    "value": "1,900",
+    "context": "Row 33 'Unit selling price, EUR' (N+1) is empty. Text_data lists 1,900 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D33",
+    "value": "2,000",
+    "context": "Row 33 'Unit selling price, EUR' (N+2) is empty. Text_data lists 2,000 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E33",
+    "value": "2,100",
+    "context": "Row 33 'Unit selling price, EUR' (N+3) is empty. Text_data lists 2,100 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B34",
+    "value": "360,000",
+    "context": "Row 34 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 200 * 1,800 = 360,000 EUR; replace the placeholder."
+  },
+  {
+    "cell_reference": "C34",
+    "value": "608,000",
+    "context": "Row 34 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 320 * 1,900 = 608,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D34",
+    "value": "840,000",
+    "context": "Row 34 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 420 * 2,000 = 840,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E34",
+    "value": "1,155,000",
+    "context": "Row 34 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 550 * 2,100 = 1,155,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A36",
+    "value": "Customer Analytics Platform",
+    "context": "Row 36 product header currently 'Product xxx'. The text_data identifies this as 'Customer Analytics Platform', so replace placeholder and align rows 37-39 with the provided data."
+  },
+  {
+    "cell_reference": "B37",
+    "value": "35",
+    "context": "Row 37 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 35 units during the project for this product; fill the quantity."
+  },
+  {
+    "cell_reference": "C37",
+    "value": "65",
+    "context": "Row 37 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 65 units in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D37",
+    "value": "90",
+    "context": "Row 37 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 90 units in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E37",
+    "value": "120",
+    "context": "Row 37 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 120 units in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B38",
+    "value": "6,800",
+    "context": "Row 38 'Unit selling price, EUR' (During the project) is empty. Text_data lists 6,800 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C38",
+    "value": "7,100",
+    "context": "Row 38 'Unit selling price, EUR' (N+1) is empty. Text_data lists 7,100 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D38",
+    "value": "7,400",
+    "context": "Row 38 'Unit selling price, EUR' (N+2) is empty. Text_data lists 7,400 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E38",
+    "value": "7,700",
+    "context": "Row 38 'Unit selling price, EUR' (N+3) is empty. Text_data lists 7,700 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B39",
+    "value": "238,000",
+    "context": "Row 39 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 35 * 6,800 = 238,000 EUR; replace the placeholder."
+  },
+  {
+    "cell_reference": "C39",
+    "value": "461,500",
+    "context": "Row 39 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 65 * 7,100 = 461,500 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D39",
+    "value": "666,000",
+    "context": "Row 39 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 90 * 7,400 = 666,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E39",
+    "value": "924,000",
+    "context": "Row 39 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 120 * 7,700 = 924,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A41",
+    "value": "Automated Workflow Management System",
+    "context": "Row 41 product header currently 'Product xxx'. The text_data names this product 'Automated Workflow Management System', so replace the placeholder to correctly label rows 42-44."
+  },
+  {
+    "cell_reference": "B42",
+    "value": "120",
+    "context": "Row 42 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 120 units during the project for this product; fill the missing quantity."
+  },
+  {
+    "cell_reference": "C42",
+    "value": "180",
+    "context": "Row 42 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 180 units in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D42",
+    "value": "230",
+    "context": "Row 42 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 230 units in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E42",
+    "value": "300",
+    "context": "Row 42 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 300 units in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B43",
+    "value": "4,200",
+    "context": "Row 43 'Unit selling price, EUR' (During the project) is empty. Text_data lists 4,200 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C43",
+    "value": "4,400",
+    "context": "Row 43 'Unit selling price, EUR' (N+1) is empty. Text_data lists 4,400 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D43",
+    "value": "4,600",
+    "context": "Row 43 'Unit selling price, EUR' (N+2) is empty. Text_data lists 4,600 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E43",
+    "value": "4,800",
+    "context": "Row 43 'Unit selling price, EUR' (N+3) is empty. Text_data lists 4,800 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B44",
+    "value": "504,000",
+    "context": "Row 44 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 120 * 4,200 = 504,000 EUR; replace the placeholder."
+  },
+  {
+    "cell_reference": "C44",
+    "value": "792,000",
+    "context": "Row 44 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 180 * 4,400 = 792,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D44",
+    "value": "1,058,000",
+    "context": "Row 44 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 230 * 4,600 = 1,058,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E44",
+    "value": "1,440,000",
+    "context": "Row 44 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 300 * 4,800 = 1,440,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A46",
+    "value": "Real-Time Data Monitoring Dashboard",
+    "context": "Row 46 product header currently 'Product xxx'. The text_data names this product 'Real-Time Data Monitoring Dashboard', so replace the placeholder to correctly label rows 47-49."
+  },
+  {
+    "cell_reference": "B47",
+    "value": "90",
+    "context": "Row 47 'Sales quantity, pcs.' (During the project) is empty. Text_data specifies 90 units during the project for this product; fill the missing quantity."
+  },
+  {
+    "cell_reference": "C47",
+    "value": "150",
+    "context": "Row 47 'Sales quantity, pcs.' (N+1) is empty. Text_data specifies 150 units in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D47",
+    "value": "200",
+    "context": "Row 47 'Sales quantity, pcs.' (N+2) is empty. Text_data specifies 200 units in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E47",
+    "value": "260",
+    "context": "Row 47 'Sales quantity, pcs.' (N+3) is empty. Text_data specifies 260 units in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B48",
+    "value": "5,500",
+    "context": "Row 48 'Unit selling price, EUR' (During the project) is empty. Text_data lists 5,500 EUR during the project for this product; fill the price."
+  },
+  {
+    "cell_reference": "C48",
+    "value": "5,750",
+    "context": "Row 48 'Unit selling price, EUR' (N+1) is empty. Text_data lists 5,750 EUR in N+1; update the cell."
+  },
+  {
+    "cell_reference": "D48",
+    "value": "6,000",
+    "context": "Row 48 'Unit selling price, EUR' (N+2) is empty. Text_data lists 6,000 EUR in N+2; fill the value."
+  },
+  {
+    "cell_reference": "E48",
+    "value": "6,250",
+    "context": "Row 48 'Unit selling price, EUR' (N+3) is empty. Text_data lists 6,250 EUR in N+3; update the cell."
+  },
+  {
+    "cell_reference": "B49",
+    "value": "495,000",
+    "context": "Row 49 'Total sales revenue, EUR' (During the project) currently '0'. Text_data gives 90 * 5,500 = 495,000 EUR; replace the placeholder."
+  },
+  {
+    "cell_reference": "C49",
+    "value": "862,500",
+    "context": "Row 49 'Total sales revenue, EUR' (N+1) currently '0'. Text_data gives 150 * 5,750 = 862,500 EUR; update the cell."
+  },
+  {
+    "cell_reference": "D49",
+    "value": "1,200,000",
+    "context": "Row 49 'Total sales revenue, EUR' (N+2) currently '0'. Text_data gives 200 * 6,000 = 1,200,000 EUR; fill the value."
+  },
+  {
+    "cell_reference": "E49",
+    "value": "1,625,000",
+    "context": "Row 49 'Total sales revenue, EUR' (N+3) currently '0'. Text_data gives 260 * 6,250 = 1,625,000 EUR; update the cell."
+  },
+  {
+    "cell_reference": "A51",
+    "value": "Industry-Specific Analytics Module",
+    "context": "Row 51 is a product header currently set to generic 'Product xxx'. Based on the provided product list, this block (rows 51-54) corresponds to the 9th product (Industry-Specific Analytics Module). Replacing the placeholder with the actual product name improves clarity and aligns row context with subsequent numeric data."
+  },
+  {
+    "cell_reference": "B52",
+    "value": "15",
+    "context": "Column B is 'During the project' (sales quantity) and row 52 is 'Sales quantity, pcs.'. The text data specifies 15 units during the project for the Industry-Specific Analytics Module, so filling '15' corrects the empty cell with the provided forecast."
+  },
+  {
+    "cell_reference": "C52",
+    "value": "35",
+    "context": "Column C is 'N+1' (sales quantity). The text data gives 35 units in N+1 for Industry-Specific Analytics Module; filling '35' completes the forecast sequence."
+  },
+  {
+    "cell_reference": "D52",
+    "value": "55",
+    "context": "Column D is 'N+2' (sales quantity). The supplied forecast lists 55 units in N+2 for this product; replacing the empty cell with '55' corrects the missing data."
+  },
+  {
+    "cell_reference": "E52",
+    "value": "75",
+    "context": "Column E is 'N+3' (sales quantity). The text data indicates 75 units in N+3 for Industry-Specific Analytics Module; populating '75' completes the multi-year quantities."
+  },
+  {
+    "cell_reference": "B53",
+    "value": "15500",
+    "context": "Row 53 is 'Unit selling price, EUR' and column B is 'During the project'. The provided unit price for the project period is 15,500 EUR. Entering '15500' (numeric) aligns the unit price with the revenue calculation."
+  },
+  {
+    "cell_reference": "C53",
+    "value": "16200",
+    "context": "Column C (N+1) unit price should be 16,200 EUR per text data. Replacing the empty cell with '16200' matches the forecasted price evolution."
+  },
+  {
+    "cell_reference": "D53",
+    "value": "16900",
+    "context": "Column D (N+2) unit price is specified as 16,900 EUR in the text data; inserting '16900' provides the correct numeric value for revenue calculations."
+  },
+  {
+    "cell_reference": "E53",
+    "value": "17600",
+    "context": "Column E (N+3) unit price is 17,600 EUR per the provided forecast. Filling '17600' completes the unit price row for this product."
+  },
+  {
+    "cell_reference": "B54",
+    "value": "232500",
+    "context": "Row 54 is 'Total sales revenue, EUR' and column B is 'During the project'. The provided total for Industry-Specific Analytics Module during the project is 232,500 EUR; replacing the placeholder '0' with '232500' corrects the total revenue."
+  },
+  {
+    "cell_reference": "C54",
+    "value": "567000",
+    "context": "Column C (N+1) total revenue for this product is 567,000 EUR in the text data. Updating '0' to '567000' aligns totals with the sales quantity and unit price provided."
+  },
+  {
+    "cell_reference": "D54",
+    "value": "929500",
+    "context": "Column D (N+2) total revenue is specified as 929,500 EUR. Replacing the existing '0' with '929500' ensures the forecasted revenue is accurately recorded."
+  },
+  {
+    "cell_reference": "E54",
+    "value": "1320000",
+    "context": "Column E (N+3) total revenue should be 1,320,000 EUR per the text data. Updating '0' to '1320000' corrects the final-year revenue for this product."
+  },
+  {
+    "cell_reference": "A56",
+    "value": "Enterprise AI Solution Suite",
+    "context": "Row 56 is the next product header currently 'Product xxx'. The provided list maps this block (rows 56-59) to the Enterprise AI Solution Suite (product 10). Replacing the placeholder with the real product name aligns header and data."
+  },
+  {
+    "cell_reference": "B57",
+    "value": "12",
+    "context": "Row 57 'Sales quantity, pcs.' during the project should be 12 units for Enterprise AI Solution Suite per text data; the cell is empty and needs this numeric value."
+  },
+  {
+    "cell_reference": "C57",
+    "value": "28",
+    "context": "N+1 sales quantity for this product is given as 28 units; filling '28' completes the projected quantities."
+  },
+  {
+    "cell_reference": "D57",
+    "value": "45",
+    "context": "N+2 sales quantity is 45 units according to the provided forecast; replacing the blank with '45' is appropriate."
+  },
+  {
+    "cell_reference": "E57",
+    "value": "65",
+    "context": "N+3 sales quantity should be 65 units per the text data; entering '65' completes the row."
+  },
+  {
+    "cell_reference": "B58",
+    "value": "25000",
+    "context": "Row 58 is unit price during the project. The text data specifies 25,000 EUR per unit for this product during the project; replacing empty with '25000' matches expected currency values."
+  },
+  {
+    "cell_reference": "C58",
+    "value": "26500",
+    "context": "Unit price in N+1 is 26,500 EUR per the forecast. Filling '26500' ensures correct pricing for revenue computations."
+  },
+  {
+    "cell_reference": "D58",
+    "value": "28000",
+    "context": "Unit price in N+2 is 28,000 EUR per text data; inserting '28000' corrects the empty value."
+  },
+  {
+    "cell_reference": "E58",
+    "value": "29500",
+    "context": "Unit price in N+3 should be 29,500 EUR; replacing the blank with '29500' aligns pricing across years."
+  },
+  {
+    "cell_reference": "B59",
+    "value": "300000",
+    "context": "Row 59 is 'Total sales revenue, EUR' during the project. The provided total is 300,000 EUR for Enterprise AI Solution Suite; updating from '0' to '300000' corrects the revenue entry."
+  },
+  {
+    "cell_reference": "C59",
+    "value": "742000",
+    "context": "N+1 total revenue for this product is 742,000 EUR per text data; replacing '0' with '742000' aligns totals with quantities and unit prices."
+  },
+  {
+    "cell_reference": "D59",
+    "value": "1260000",
+    "context": "N+2 total revenue specified as 1,260,000 EUR; updating '0' to '1260000' records the forecasted revenue accurately."
+  },
+  {
+    "cell_reference": "E59",
+    "value": "1917500",
+    "context": "N+3 total revenue is 1,917,500 EUR in the provided data. Changing '0' to '1917500' ensures the table reflects the projected premium sales."
+  },
+  {
+    "cell_reference": "A61",
+    "value": "Mobile Analytics Application",
+    "context": "Row 61 product header currently generic; per the product list this block (rows 61-64) corresponds to the Mobile Analytics Application (product 11). Replacing 'Product xxx' with the actual name clarifies the data block."
+  },
+  {
+    "cell_reference": "B62",
+    "value": "300",
+    "context": "Row 62 'Sales quantity, pcs.' during the project should be 300 units per text data; the cell is empty and needs this forecasted figure."
+  },
+  {
+    "cell_reference": "C62",
+    "value": "600",
+    "context": "N+1 sales quantity for Mobile Analytics Application is 600 units; filling '600' matches the provided projection."
+  },
+  {
+    "cell_reference": "D62",
+    "value": "850",
+    "context": "N+2 sales quantity is 850 units according to the text data; inserting '850' completes the sequence."
+  },
+  {
+    "cell_reference": "E62",
+    "value": "1200",
+    "context": "N+3 sales quantity should be 1,200 units per the forecast; entering '1200' fills the empty cell."
+  },
+  {
+    "cell_reference": "B63",
+    "value": "850",
+    "context": "Row 63 is 'Unit selling price, EUR' during the project. The provided price is 850 EUR per unit; entering '850' corrects the blank."
+  },
+  {
+    "cell_reference": "C63",
+    "value": "900",
+    "context": "Unit price in N+1 is 900 EUR per the data; filling '900' aligns price progression."
+  },
+  {
+    "cell_reference": "D63",
+    "value": "950",
+    "context": "Unit price in N+2 is 950 EUR according to the forecast; replacing the empty cell with '950' is appropriate."
+  },
+  {
+    "cell_reference": "E63",
+    "value": "1000",
+    "context": "Unit price in N+3 is 1,000 EUR per the text data; entering '1000' finalizes the unit price row."
+  },
+  {
+    "cell_reference": "B64",
+    "value": "255000",
+    "context": "Row 64 'Total sales revenue, EUR' during the project should be 255,000 EUR for Mobile Analytics Application; updating '0' to '255000' corrects the total revenue."
+  },
+  {
+    "cell_reference": "C64",
+    "value": "540000",
+    "context": "N+1 total revenue is 540,000 EUR in the provided data; replacing '0' with '540000' ensures consistency with quantities and prices."
+  },
+  {
+    "cell_reference": "D64",
+    "value": "807500",
+    "context": "N+2 total revenue specified as 807,500 EUR; updating from '0' to '807500' records the forecast correctly."
+  },
+  {
+    "cell_reference": "E64",
+    "value": "1200000",
+    "context": "N+3 total revenue should be 1,200,000 EUR per text data; changing '0' to '1200000' completes the revenue forecast for this product."
+  },
+  {
+    "cell_reference": "A66",
+    "value": "Compliance Monitoring Tool",
+    "context": "Row 66 product header currently 'Product xxx'. Per the provided list this block corresponds to the Compliance Monitoring Tool (product 12). Replacing the placeholder with the actual product name clarifies the block."
+  },
+  {
+    "cell_reference": "B67",
+    "value": "55",
+    "context": "Row 67 'Sales quantity, pcs.' during the project should be 55 units for the Compliance Monitoring Tool per text data; filling '55' replaces the blank with the forecasted quantity."
+  },
+  {
+    "cell_reference": "C67",
+    "value": "95",
+    "context": "N+1 sales quantity for this product is 95 units; entering '95' completes the quantities row."
+  },
+  {
+    "cell_reference": "D67",
+    "value": "135",
+    "context": "N+2 sales quantity is 135 units per the forecast; replacing the empty cell with '135' is appropriate."
+  },
+  {
+    "cell_reference": "E67",
+    "value": "180",
+    "context": "N+3 sales quantity should be 180 units according to the text data; filling '180' finalizes the multi-year quantities."
+  },
+  {
+    "cell_reference": "B68",
+    "value": "7800",
+    "context": "Row 68 is unit price during the project. The provided unit price is 7,800 EUR; setting '7800' aligns the pricing cell with the forecast."
+  },
+  {
+    "cell_reference": "C68",
+    "value": "8200",
+    "context": "Unit price in N+1 is 8,200 EUR per the text data; entering '8200' corrects the empty cell."
+  },
+  {
+    "cell_reference": "D68",
+    "value": "8600",
+    "context": "Unit price in N+2 is 8,600 EUR according to the forecast; inserting '8600' ensures price consistency."
+  },
+  {
+    "cell_reference": "E68",
+    "value": "9000",
+    "context": "Unit price in N+3 should be 9,000 EUR per the provided data; filling '9000' completes the pricing row."
+  },
+  {
+    "cell_reference": "B69",
+    "value": "429000",
+    "context": "Row 69 'Total sales revenue, EUR' during the project is specified as 429,000 EUR for this product; replacing '0' with '429000' aligns totals with the provided quantities/prices."
+  },
+  {
+    "cell_reference": "C69",
+    "value": "779000",
+    "context": "N+1 total revenue of 779,000 EUR is given in the text data; updating '0' to '779000' corrects the N+1 total."
+  },
+  {
+    "cell_reference": "D69",
+    "value": "1161000",
+    "context": "N+2 total revenue should be 1,161,000 EUR; changing '0' to '1161000' records the forecasted revenue accurately."
+  },
+  {
+    "cell_reference": "E69",
+    "value": "1620000",
+    "context": "N+3 total revenue is 1,620,000 EUR per the data; updating '0' to '1620000' completes the revenue entries for this product."
+  },
+  {
+    "cell_reference": "A71",
+    "value": "Supply Chain Analytics Platform",
+    "context": "Row 71 product header is generic; the provided list maps rows 71-74 to the Supply Chain Analytics Platform (product 13). Updating the header to the actual product name clarifies the block purpose."
+  },
+  {
+    "cell_reference": "B72",
+    "value": "40",
+    "context": "Row 72 'Sales quantity, pcs.' during the project is 40 units per the text data for the Supply Chain Analytics Platform; filling '40' replaces the empty cell with the forecasted number."
+  },
+  {
+    "cell_reference": "C72",
+    "value": "70",
+    "context": "N+1 sales quantity is 70 units according to the provided forecast; entering '70' completes the quantities row."
+  },
+  {
+    "cell_reference": "D72",
+    "value": "100",
+    "context": "N+2 sales quantity should be 100 units per text data; updating the blank to '100' aligns the data."
+  },
+  {
+    "cell_reference": "E72",
+    "value": "140",
+    "context": "N+3 sales quantity is 140 units in the forecast; filling '140' finalizes the projected quantities."
+  },
+  {
+    "cell_reference": "B73",
+    "value": "9200",
+    "context": "Row 73 is 'Unit selling price, EUR' during the project. The provided price is 9,200 EUR; inserting '9200' corrects the empty cell."
+  },
+  {
+    "cell_reference": "C73",
+    "value": "9650",
+    "context": "Unit price in N+1 is 9,650 EUR per the text data; filling '9650' aligns pricing for N+1."
+  },
+  {
+    "cell_reference": "D73",
+    "value": "10100",
+    "context": "Unit price in N+2 is 10,100 EUR according to the forecast; entering '10100' completes the price progression."
+  },
+  {
+    "cell_reference": "E73",
+    "value": "10550",
+    "context": "Unit price in N+3 should be 10,550 EUR per the provided data; updating the blank to '10550' finalizes unit pricing."
+  },
+  {
+    "cell_reference": "B74",
+    "value": "368000",
+    "context": "Row 74 'Total sales revenue, EUR' during the project is specified as 368,000 EUR for this product; replacing '0' with '368000' ensures totals reflect the forecast."
+  },
+  {
+    "cell_reference": "C74",
+    "value": "675500",
+    "context": "N+1 total revenue of 675,500 EUR is given; updating '0' to '675500' aligns totals with quantities and prices."
+  },
+  {
+    "cell_reference": "D74",
+    "value": "1010000",
+    "context": "N+2 total revenue should be 1,010,000 EUR per text data; replacing '0' with '1010000' corrects the entry."
+  },
+  {
+    "cell_reference": "E74",
+    "value": "1477000",
+    "context": "N+3 total revenue is 1,477,000 EUR according to the forecast; updating '0' to '1477000' completes the revenue forecast for this product."
+  },
+  {
+    "cell_reference": "A76",
+    "value": "Financial Analytics Dashboard",
+    "context": "Row 76 product header currently generic; per the product list this block (rows 76-79) corresponds to the Financial Analytics Dashboard (product 14). Replacing the placeholder with the actual name provides correct identification."
+  },
+  {
+    "cell_reference": "B77",
+    "value": "30",
+    "context": "Row 77 'Sales quantity, pcs.' during the project should be 30 units for the Financial Analytics Dashboard per text data; filling '30' replaces the blank."
+  },
+  {
+    "cell_reference": "C77",
+    "value": "50",
+    "context": "N+1 sales quantity is 50 units according to the forecast; entering '50' completes the quantities."
+  },
+  {
+    "cell_reference": "D77",
+    "value": "70",
+    "context": "N+2 sales quantity should be 70 units per text data; updating the empty cell to '70' aligns the forecast."
+  },
+  {
+    "cell_reference": "E77",
+    "value": "95",
+    "context": "N+3 sales quantity is 95 units in the provided data; filling '95' finalizes the multi-year sales quantities."
+  },
+  {
+    "cell_reference": "B78",
+    "value": "18500",
+    "context": "Row 78 'Unit selling price, EUR' during the project is 18,500 EUR per the text data; inserting '18500' corrects the blank."
+  },
+  {
+    "cell_reference": "C78",
+    "value": "19400",
+    "context": "Unit price in N+1 is 19,400 EUR according to the forecast; entering '19400' aligns pricing for N+1."
+  },
+  {
+    "cell_reference": "D78",
+    "value": "20300",
+    "context": "Unit price in N+2 is 20,300 EUR per text data; updating the empty cell to '20300' completes the price progression."
+  },
+  {
+    "cell_reference": "E78",
+    "value": "21200",
+    "context": "Unit price in N+3 should be 21,200 EUR per the provided forecast; filling '21200' finalizes unit pricing."
+  },
+  {
+    "cell_reference": "B79",
+    "value": "555000",
+    "context": "Row 79 'Total sales revenue, EUR' during the project is specified as 555,000 EUR for this product; replacing '0' with '555000' ensures totals are accurate."
+  },
+  {
+    "cell_reference": "C79",
+    "value": "970000",
+    "context": "N+1 total revenue of 970,000 EUR is provided; updating '0' to '970000' aligns totals with provided quantities/prices."
+  },
+  {
+    "cell_reference": "D79",
+    "value": "1421000",
+    "context": "N+2 total revenue should be 1,421,000 EUR; changing '0' to '1421000' records the forecasted figure correctly."
+  },
+  {
+    "cell_reference": "E79",
+    "value": "2014000",
+    "context": "N+3 total revenue is 2,014,000 EUR per the text data; updating '0' to '2014000' completes the revenue forecast for this product."
+  },
+  {
+    "cell_reference": "A81",
+    "value": "Healthcare Analytics Solution",
+    "context": "Row 81 product header is generic; the provided list maps this block (rows 81-84) to the Healthcare Analytics Solution (product 15). Replacing 'Product xxx' with the product name clarifies the section."
+  },
+  {
+    "cell_reference": "B82",
+    "value": "8",
+    "context": "Row 82 'Sales quantity, pcs.' during the project should be 8 units for the Healthcare Analytics Solution per text data; updating the blank with '8' reflects the forecasted quantity."
+  },
+  {
+    "cell_reference": "C82",
+    "value": "18",
+    "context": "N+1 sales quantity for this product is 18 units per the provided forecast; entering '18' completes the quantities row."
+  },
+  {
+    "cell_reference": "D82",
+    "value": "28",
+    "context": "N+2 sales quantity is 28 units according to the text data; replacing the empty cell with '28' aligns the data."
+  },
+  {
+    "cell_reference": "E82",
+    "value": "40",
+    "context": "N+3 sales quantity should be 40 units per the forecast; filling '40' finalizes the projected quantities."
+  },
+  {
+    "cell_reference": "B83",
+    "value": "35000",
+    "context": "Row 83 'Unit selling price, EUR' during the project is 35,000 EUR per the text data; inserting '35000' corrects the blank and supports revenue calculations."
+  },
+  {
+    "cell_reference": "C83",
+    "value": "37000",
+    "context": "Unit price in N+1 is 37,000 EUR according to the forecast; entering '37000' aligns the price progression."
+  },
+  {
+    "cell_reference": "D83",
+    "value": "39000",
+    "context": "Unit price in N+2 is 39,000 EUR per text data; updating the empty cell to '39000' completes unit pricing."
+  },
+  {
+    "cell_reference": "E83",
+    "value": "41000",
+    "context": "Unit price in N+3 should be 41,000 EUR per the provided forecast; filling '41000' finalizes the pricing row."
+  },
+  {
+    "cell_reference": "B84",
+    "value": "280000",
+    "context": "Row 84 'Total sales revenue, EUR' during the project is specified as 280,000 EUR for Healthcare Analytics Solution; replacing '0' with '280000' ensures totals reflect the forecast."
+  },
+  {
+    "cell_reference": "C84",
+    "value": "666000",
+    "context": "N+1 total revenue of 666,000 EUR is given; updating '0' to '666000' aligns totals with quantities and unit prices."
+  },
+  {
+    "cell_reference": "D84",
+    "value": "1092000",
+    "context": "N+2 total revenue should be 1,092,000 EUR per the text data; replacing '0' with '1092000' records the projected revenue accurately."
+  },
+  {
+    "cell_reference": "E84",
+    "value": "1640000",
+    "context": "N+3 total revenue is 1,640,000 EUR according to the forecast; updating '0' to '1640000' completes the multi-year revenue projection for this product."
+  }
+]

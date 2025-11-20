@@ -1,0 +1,133 @@
+row,column,cell_reference,value,context,source_file
+,,D1,Industrial research,"Row 1 label C1 is 'Type of R&D activity:' and the adjacent input area spans D1-F1. Cell D1 is empty; the provided text_data gives 'Industrial research', which directly fills the expected activity type (text field).",ENGLISH_1A priedas_InoStartas en_1
+,,D2,2025-RD-001,"Row 2 label C2 is 'Project Impact No.:'. The adjacent input cell (D2) is empty; text_data provides the project's impact number '2025-RD-001', which is the correct identifier for this field.",ENGLISH_1A priedas_InoStartas en_1
+,,D3,Development of Advanced AI-Based Medical Diagnostic System,Row 3 label spans A-C 'Name of exposure:' and the following cells (D3 onward) are empty. The exposure name in text_data exactly matches this row's meaning and should be placed into D3.,ENGLISH_1A priedas_InoStartas en_1
+,,D4,TechMed Innovations UAB,Row 4 label A-C states 'Name of the legal entity responsible for achieving the impact:' and the corresponding data cell(s) (D4..I4) are empty. The provided legal entity 'TechMed Innovations UAB' directly fills this required value.,ENGLISH_1A priedas_InoStartas en_1
+,,D5,Applicant,Row 5 label C5 is 'Applicant/partner (select):' and the adjacent input (D5..F5) is empty. text_data specifies 'Applicant' as the selection; placing it in D5 fills the selection field.,ENGLISH_1A priedas_InoStartas en_1
+,,I5,70%,Row 5 contains the label 'Funding intensity:' in a later column and its input cell is empty (col I). The provided 'Funding intensity: 70%' from text_data is precisely the value expected here and should replace the blank.,ENGLISH_1A priedas_InoStartas en_1
+,,G8,892700,"Row 8 text (spanning cols) reads 'Total direct costs:' and the adjacent numeric cell (G8) is 0. The text_data explicitly gives 'Total DIRECT project costs (Eligible costs): 892700' — this is a superior, accurate total for the 'Total direct costs' cell and should replace the placeholder 0.",ENGLISH_1A priedas_InoStartas en_1
+,,H8,624890,Row 8 second numeric column (H8) corresponds to 'Funding requested' for 'Total direct costs:' and currently shows 0. text_data lists 'Total DIRECT project costs (Funding requested): 624890' which correctly populates this field.,ENGLISH_1A priedas_InoStartas en_1
+,,G9,91169.2,"Row 9 is the category 'Salaries and wages of project staff and employer's liability costs' header; the column 'Amount of eligible costs excluding VAT, EUR' (G9) currently shows 0. The sum of the individual staff amounts (unit prices/eligible amounts) in text_data is 91169.2, so replacing 0 with 91169.2 gives the correct category total.",ENGLISH_1A priedas_InoStartas en_1
+,,H9,63818.44,"Row 9 'Funding requested' column (H9) currently shows 0. The sum of the provided funding-requested values for the 20 staff entries equals 63818.44, so updating H9 with 63818.44 correctly reflects the category funding requested total.",ENGLISH_1A priedas_InoStartas en_1
+,,B10,Dr. Jonas Petrauskas - Project Manager,"Row 10 corresponds to expenditure code 1.1 (salaries). Columns B-C are 'Title of expenditure'. B10 is empty. The staff list gives 'Dr. Jonas Petrauskas - Project Manager', which is the title expected here.",ENGLISH_1A priedas_InoStartas en_1
+,,E10,1,Row 10 column E is 'Quantity' for the salary line; the provided Quantity list indicates '1' for each staff entry. E10 is empty and should be filled with '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F10,6471,"Row 10 column F is 'Unit price without VAT, Eur' for salary 1.1; currently empty/0. text_data lists 6471 for the first staff entry and that value should be placed here.",ENGLISH_1A priedas_InoStartas en_1
+,,G10,6471,"Row 10 column G is 'Amount of eligible costs excluding VAT, EUR'. It should equal the unit price * quantity; text_data gives 6471 for the first staff line and G10 is empty, so fill with 6471.",ENGLISH_1A priedas_InoStartas en_1
+,,H10,4529.7,"Row 10 column H is 'Funding requested, EUR' and currently shows 0. The provided funding requested for the first staff entry is 4529.7 and should replace the placeholder.",ENGLISH_1A priedas_InoStartas en_1
+,,I10,Employment contract EC-001 dated 2024-01-15,"Row 10 column I 'Title, date and number of supporting documents' is empty. The corresponding supporting document in text_data for the first staff is 'Employment contract EC-001 dated 2024-01-15' which properly documents this salary line.",ENGLISH_1A priedas_InoStartas en_1
+,,B11,Dr. Elena Kazlauskaite - Senior AI Researcher,Row 11 (1.2) title cell B11 is empty; text_data provides the staff name and role which fits the 'Title of expenditure' column.,ENGLISH_1A priedas_InoStartas en_1
+,,E11,1,Quantity for row 11 should be '1' per text_data (each staff line). E11 is empty and should be set to '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F11,6038.4,Unit price for row 11 (col F) is empty; text_data specifies 6038.4 for the second staff and should be entered.,ENGLISH_1A priedas_InoStartas en_1
+,,G11,6038.4,Amount eligible (col G) for row 11 equals unit price 6038.4 per text_data and is currently blank or 0; update to 6038.4.,ENGLISH_1A priedas_InoStartas en_1
+,,H11,4226.88,Funding requested (col H) for the second staff is 4226.88 per text_data; replace the placeholder 0 with this value.,ENGLISH_1A priedas_InoStartas en_1
+,,I11,Employment contract EC-002 dated 2024-01-20,Supporting document for row 11 is provided in text_data; I11 is blank and should contain EC-002 and date.,ENGLISH_1A priedas_InoStartas en_1
+,,B12,Mindaugas Vasiljevas - Software Engineer,Row 12 (1.3) title cell is empty; fill with staff name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E12,1,Quantity for row 12 should be '1' (per staff quantity list).,ENGLISH_1A priedas_InoStartas en_1
+,,F12,4601.6,Unit price for row 12 per text_data is 4601.6; cell is empty and needs this numeric value.,ENGLISH_1A priedas_InoStartas en_1
+,,G12,4601.6,Amount eligible equals unit price here; text_data gives 4601.6 and G12 is blank/0 so should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,H12,3221.12,Funding requested for row 12 is 3221.12 per text_data; replace placeholder 0.,ENGLISH_1A priedas_InoStartas en_1
+,,I12,Employment contract EC-003 dated 2024-02-01,Supporting document for this staff is EC-003 dated 2024-02-01 in the text_data; I12 is empty and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B13,Ruta Jankauskaite - Data Scientist,Row 13 (1.4) title is empty; fill with the name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E13,1,Quantity for the Data Scientist line should be '1' per the provided quantities.,ENGLISH_1A priedas_InoStartas en_1
+,,F13,5033,Unit price for row 13 from text_data is 5033; cell is empty and should be set.,ENGLISH_1A priedas_InoStartas en_1
+,,G13,5033,Amount eligible (col G) equals 5033 per the text_data; update blank/0 to 5033.,ENGLISH_1A priedas_InoStartas en_1
+,,H13,3523.1,Funding requested for row 13 is 3523.1 according to text_data; fill H13 accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,I13,Employment contract EC-004 dated 2024-02-10,Supporting doc for this staff is EC-004 dated 2024-02-10 per text_data; I13 is blank and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B14,Tomas Mickus - Clinical Specialist,Row 14 (1.5) title is empty; text_data provides the staff name/role to fill.,ENGLISH_1A priedas_InoStartas en_1
+,,E14,1,Quantity for row 14 is 1 per the supplied quantities.,ENGLISH_1A priedas_InoStartas en_1
+,,F14,5464.4,Unit price for row 14 from text_data is 5464.4; update blank/0 to this value.,ENGLISH_1A priedas_InoStartas en_1
+,,G14,5464.4,Amount eligible equals the unit price 5464.4; G14 should be set accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,H14,3825.08,Funding requested for the Clinical Specialist is 3825.08 per text_data; replace placeholder.,ENGLISH_1A priedas_InoStartas en_1
+,,I14,Employment contract EC-005 dated 2024-02-15,Supporting document for this staff is EC-005 dated 2024-02-15; I14 is empty and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B15,Giedre Rimkute - Quality Assurance Engineer,Row 15 (1.6) title is empty; fill with name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E15,1,Quantity for row 15 should be '1' per the staff quantity list.,ENGLISH_1A priedas_InoStartas en_1
+,,F15,4026.4,Unit price for row 15 provided as 4026.4 in text_data; update blank/0.,ENGLISH_1A priedas_InoStartas en_1
+,,G15,4026.4,Amount eligible equals 4026.4 for this staff (unit*quantity); G15 currently empty and should be set.,ENGLISH_1A priedas_InoStartas en_1
+,,H15,2818.48,Funding requested for row 15 is 2818.48 per text_data; replace placeholder 0.,ENGLISH_1A priedas_InoStartas en_1
+,,I15,Employment contract EC-006 dated 2024-03-01,Supporting document for this staff is EC-006 dated 2024-03-01; I15 is blank and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B16,Paulius Stankevicius - UI/UX Designer,Row 16 (1.7) title empty; fill with provided name and role.,ENGLISH_1A priedas_InoStartas en_1
+,,E16,1,Quantity for row 16 is 1 as per text_data; E16 is empty and should be set.,ENGLISH_1A priedas_InoStartas en_1
+,,F16,3738.8,Unit price for UI/UX Designer per text_data is 3738.8; update F16.,ENGLISH_1A priedas_InoStartas en_1
+,,G16,3738.8,Amount eligible equals 3738.8 (unit price); place in G16.,ENGLISH_1A priedas_InoStartas en_1
+,,H16,2617.16,Funding requested for this staff line is 2617.16 in text_data; H16 should be updated from 0.,ENGLISH_1A priedas_InoStartas en_1
+,,I16,Employment contract EC-007 dated 2024-03-05,Supporting document for this staff is EC-007 dated 2024-03-05; I16 is blank and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B17,Agne Balciunaite - Research Assistant,Row 17 (1.8) title cell is empty; the provided staff name/role fits the 'Title of expenditure' and should be placed in B17.,ENGLISH_1A priedas_InoStartas en_1
+,,E17,1,Quantity for each staff row is 1 per the provided list; E17 should be '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F17,3163.6,Unit price for row 17 per text_data is 3163.6; F17 is currently blank/0 and should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G17,3163.6,Amount eligible equals the unit price 3163.6; place this in G17.,ENGLISH_1A priedas_InoStartas en_1
+,,H17,2214.52,Funding requested for this staff line is 2214.52 (text_data); H17 should be filled accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,I17,Employment contract EC-008 dated 2024-03-10,Supporting doc EC-008 dated 2024-03-10 is associated with this staff line; I17 is blank and should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B18,Vytautas Kazys - Database Administrator,Row 18 (1.9) title empty; fill with provided staff name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E18,1,Quantity for row 18 should be '1' per the staff quantity list.,ENGLISH_1A priedas_InoStartas en_1
+,,F18,4458.1,Unit price for Database Administrator is 4458.1 as given; F18 should be updated from blank/0.,ENGLISH_1A priedas_InoStartas en_1
+,,G18,4458.1,Amount eligible equals 4458.1; G18 is currently empty and should be set.,ENGLISH_1A priedas_InoStartas en_1
+,,H18,3120.67,Funding requested for row 18 is 3120.67 in the provided data; update H18.,ENGLISH_1A priedas_InoStartas en_1
+,,I18,Employment contract EC-009 dated 2024-03-15,Supporting doc for this staff is EC-009 dated 2024-03-15 per text_data; I18 should contain this reference.,ENGLISH_1A priedas_InoStartas en_1
+,,B19,Simona Balsyte - Technical Writer,Row 19 (1.10) title cell is empty; text_data provides 'Simona Balsyte - Technical Writer' which should be entered here.,ENGLISH_1A priedas_InoStartas en_1
+,,E19,1,Quantity for the technical writer row is 1 per provided quantities; fill E19 with '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F19,3451.2,Unit price in text_data for this staff is 3451.2; F19 should be updated from 0.,ENGLISH_1A priedas_InoStartas en_1
+,,G19,3451.2,Amount eligible equals the unit price 3451.2; place in G19.,ENGLISH_1A priedas_InoStartas en_1
+,,H19,2415.84,Funding requested for Simona Balsyte per text_data is 2415.84; update H19 (currently blank/0).,ENGLISH_1A priedas_InoStartas en_1
+,,I19,Employment contract EC-010 dated 2024-03-20,Supporting document for this staff is EC-010 dated 2024-03-20; I19 should be filled accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,B20,Andrius Pavilonis - Machine Learning Engineer,Row 20 (1.11) title empty; fill with the provided staff name and role.,ENGLISH_1A priedas_InoStartas en_1
+,,E20,1,Quantity for row 20 is 1 per the provided list; E20 should be set to '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F20,5608.2,Unit price for row 20 is 5608.2 per text_data; F20 is empty and should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G20,5608.2,Amount eligible equals 5608.2 for this staff; place value in G20.,ENGLISH_1A priedas_InoStartas en_1
+,,H20,3925.74,Funding requested for this staff (Andrius Pavilonis) equals 3925.74 in text_data; H20 should be filled with this number.,ENGLISH_1A priedas_InoStartas en_1
+,,I20,Employment contract EC-011 dated 2024-04-01,Supporting document EC-011 dated 2024-04-01 is listed in text_data for this staff; I20 should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B21,Kristina Urboniene - Biomedical Engineer,Row 21 (1.12) title cell is empty; text_data supplies the name/role which fits the 'Title of expenditure' field.,ENGLISH_1A priedas_InoStartas en_1
+,,E21,1,Quantity for row 21 is 1 according to the provided list.,ENGLISH_1A priedas_InoStartas en_1
+,,F21,5176.8,Unit price for row 21 is 5176.8 per text_data; F21 should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G21,5176.8,Amount eligible equals 5176.8 (unit * quantity) and G21 is blank; update with this value.,ENGLISH_1A priedas_InoStartas en_1
+,,H21,3623.76,Funding requested value for this staff (3623.76) is provided in text_data; place in H21.,ENGLISH_1A priedas_InoStartas en_1
+,,I21,Employment contract EC-012 dated 2024-04-05,Supporting doc EC-012 dated 2024-04-05 from text_data maps to this staff line; I21 should store it.,ENGLISH_1A priedas_InoStartas en_1
+,,B22,Darius Lukauskas - DevOps Engineer,Row 22 (1.13) title is empty; the provided staff name and role should be entered here.,ENGLISH_1A priedas_InoStartas en_1
+,,E22,1,Quantity for row 22 should be 1 per the staff quantity list.,ENGLISH_1A priedas_InoStartas en_1
+,,F22,4746.3,Unit price for row 22 from text_data is 4746.3; update F22 accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,G22,4746.3,Amount eligible equals 4746.3; G22 is blank and should be filled with this number.,ENGLISH_1A priedas_InoStartas en_1
+,,H22,3322.41,Funding requested for the DevOps Engineer is 3322.41 per text_data; H22 should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,I22,Employment contract EC-013 dated 2024-04-10,Supporting doc EC-013 dated 2024-04-10 is associated with this staff entry; I22 should contain it.,ENGLISH_1A priedas_InoStartas en_1
+,,B23,Neringa Jociene - Project Coordinator,Row 23 (1.14) title cell is empty; text_data provides the coordinator's name and role to place here.,ENGLISH_1A priedas_InoStartas en_1
+,,E23,1,Quantity for row 23 is 1 per the list; E23 should be set to '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F23,3595,Unit price for Neringa Jociene is 3595 according to text_data; F23 should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G23,3595,Amount eligible equals 3595; G23 is empty and should be set to that value.,ENGLISH_1A priedas_InoStartas en_1
+,,H23,2516.5,Funding requested for row 23 is 2516.5 per text_data; update H23 (currently blank/0).,ENGLISH_1A priedas_InoStartas en_1
+,,I23,Employment contract EC-014 dated 2024-04-15,Supporting document EC-014 dated 2024-04-15 belongs to this staff entry; I23 should hold this reference.,ENGLISH_1A priedas_InoStartas en_1
+,,B24,Linas Gedvilas - Security Specialist,Row 24 (1.15) title empty; fill with the provided name and role to reflect 'Title of expenditure'.,ENGLISH_1A priedas_InoStartas en_1
+,,E24,1,Quantity for this salary row is 1 per the provided quantities; E24 should be '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F24,4889.2,Unit price for the Security Specialist is 4889.2 per text_data; update F24.,ENGLISH_1A priedas_InoStartas en_1
+,,G24,4889.2,Amount eligible equals 4889.2; G24 should be set from blank to this number.,ENGLISH_1A priedas_InoStartas en_1
+,,H24,3422.44,Funding requested for row 24 is 3422.44 according to text_data; replace placeholder 0 in H24 with this value.,ENGLISH_1A priedas_InoStartas en_1
+,,I24,Employment contract EC-015 dated 2024-04-20,Supporting document EC-015 dated 2024-04-20 corresponds to this staff entry and should be placed in I24.,ENGLISH_1A priedas_InoStartas en_1
+,,B25,Ausra Navickaite - Business Analyst,Row 25 (1.16) title is empty; fill with the name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E25,1,Quantity for row 25 should be 1 according to the staff quantities list.,ENGLISH_1A priedas_InoStartas en_1
+,,F25,4170.2,Unit price for row 25 (Business Analyst) is 4170.2 per text_data; F25 should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G25,4170.2,Amount eligible equals 4170.2; update G25 from blank.,ENGLISH_1A priedas_InoStartas en_1
+,,H25,2919.14,Funding requested for this staff is 2919.14 per text_data; H25 should contain this value.,ENGLISH_1A priedas_InoStartas en_1
+,,I25,Employment contract EC-016 dated 2024-05-01,Supporting doc EC-016 dated 2024-05-01 applies to this staff line; I25 should be filled.,ENGLISH_1A priedas_InoStartas en_1
+,,B26,Rokas Petkus - Frontend Developer,Row 26 (1.17) title is empty; text_data supplies the name and role to fill this column.,ENGLISH_1A priedas_InoStartas en_1
+,,E26,1,Quantity for the Frontend Developer row is 1 per the supplied list.,ENGLISH_1A priedas_InoStartas en_1
+,,F26,3882.6,Unit price for row 26 from text_data is 3882.6; F26 should be updated accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,G26,3882.6,Amount eligible equals 3882.6 (unit price); G26 is empty and should be set.,ENGLISH_1A priedas_InoStartas en_1
+,,H26,2717.82,Funding requested for Rokas Petkus is 2717.82 per text_data; H26 should replace the placeholder 0.,ENGLISH_1A priedas_InoStartas en_1
+,,I26,Employment contract EC-017 dated 2024-05-05,Supporting document EC-017 dated 2024-05-05 corresponds to this staff entry and should be recorded in I26.,ENGLISH_1A priedas_InoStartas en_1
+,,B27,Egle Stonkute - Backend Developer,Row 27 (1.18) title area is empty; fill with the staff name and role from text_data.,ENGLISH_1A priedas_InoStartas en_1
+,,E27,1,Quantity for row 27 is '1' per the provided list.,ENGLISH_1A priedas_InoStartas en_1
+,,F27,4314,Unit price for Backend Developer in text_data is 4314; F27 should be updated.,ENGLISH_1A priedas_InoStartas en_1
+,,G27,4314,Amount eligible equals 4314; fill G27 which is currently blank/0.,ENGLISH_1A priedas_InoStartas en_1
+,,H27,3019.8,Funding requested for this staff per text_data is 3019.8; H27 should be set accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,I27,Employment contract EC-018 dated 2024-05-10,Supporting document EC-018 dated 2024-05-10 belongs to this staff entry and should be entered in I27.,ENGLISH_1A priedas_InoStartas en_1
+,,B28,Mantas Grigas - Test Engineer,Row 28 (1.19) title is empty; the staff name/role in text_data should be placed here.,ENGLISH_1A priedas_InoStartas en_1
+,,E28,1,Quantity for row 28 is 1 (per staff quantity list); fill E28 with '1'.,ENGLISH_1A priedas_InoStartas en_1
+,,F28,3738.8,Unit price for the Test Engineer is 3738.8 per text_data; F28 should contain this number.,ENGLISH_1A priedas_InoStartas en_1
+,,G28,3738.8,Amount eligible equals 3738.8; update G28 accordingly.,ENGLISH_1A priedas_InoStartas en_1
+,,H28,2617.16,Funding requested for row 28 (Test Engineer) is 2617.16 per text_data; replace placeholder 0 in H28.,ENGLISH_1A priedas_InoStartas en_1
+,,I28,Employment contract EC-019 dated 2024-05-15,Supporting doc EC-019 dated 2024-05-15 is listed in text_data for this staff and should be recorded in I28.,ENGLISH_1A priedas_InoStartas en_1
+,,B29,Evelina Zukauskiene - Regulatory Affairs Specialist,"Row 29 (1.20) title cell is empty; text_data provides 'Evelina Zukauskiene - Regulatory Affairs Specialist', appropriate for this 'Title of expenditure' field.",ENGLISH_1A priedas_InoStartas en_1
+,,E29,1,Quantity for the final staff line is '1' as provided; E29 should be filled.,ENGLISH_1A priedas_InoStartas en_1
+,,F29,4601.6,Unit price for the Regulatory Affairs Specialist (row 29) is 4601.6 per text_data; update F29.,ENGLISH_1A priedas_InoStartas en_1
+,,G29,4601.6,Amount eligible equals 4601.6 and should replace the existing blank/0 in G29.,ENGLISH_1A priedas_InoStartas en_1
+,,H29,3221.12,Funding requested for Evelina Zukauskiene is 3221.12 per the provided values; H29 currently 0 and needs this correct figure.,ENGLISH_1A priedas_InoStartas en_1
+,,I29,Employment contract EC-020 dated 2024-05-20,Supporting document EC-020 dated 2024-05-20 corresponds to this staff entry; I29 is blank and should contain the reference.,ENGLISH_1A priedas_InoStartas en_1
+,,G30,18500,Row 30 is the header row for 'Mission expenses for project staff' and currently shows 0 in the 'Amount of eligible costs excluding VAT' column (G30). text_data gives 'Amount of eligible costs excluding VAT for Mission expenses: 18500' which should populate G30.,ENGLISH_1A priedas_InoStartas en_1
+,,H30,12950,Row 30 'Funding requested' column (H30) is 0; text_data lists 'Funding requested for Mission expenses: 12950'. Updating H30 to 12950 correctly records the mission expenses funding requested at this grouped level.,ENGLISH_1A priedas_InoStartas en_1
